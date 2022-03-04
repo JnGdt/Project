@@ -1,0 +1,140 @@
+%PDF-1.4
+%����
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/MarkInfo <<
+/Type /MarkInfo
+/Marked true
+>>
+/StructTreeRoot 3 0 R
+/ViewerPreferences 4 0 R
+/Lang (en)
+>>
+endobj
+5 0 obj
+<<
+/Creator (Canva)
+/Producer (Canva)
+/CreationDate (D:20220222083045+00'00')
+/ModDate (D:20220222083044+00'00')
+/Keywords (DAE3xSCw73A,BAEymBM6lTw)
+/Author (Naji)
+/Title (JianRESUME)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [6 0 R]
+>>
+endobj
+3 0 obj
+<<
+/Type /StructTreeRoot
+/K 7 0 R
+/ParentTreeNextKey 1
+/ParentTree 8 0 R
+/IDTree 9 0 R
+>>
+endobj
+4 0 obj
+<<
+/DisplayDocTitle true
+>>
+endobj
+6 0 obj
+<<
+/Type /Page
+/Resources <<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/G3 10 0 R
+/G4 11 0 R
+>>
+/XObject <<
+/X5 12 0 R
+>>
+/Font <<
+/F7 13 0 R
+/F8 14 0 R
+/F9 15 0 R
+/F10 16 0 R
+/F11 17 0 R
+/F12 18 0 R
+/F13 19 0 R
+/F14 20 0 R
+/F15 21 0 R
+>>
+>>
+/MediaBox [0.0 7.8299813 595.5 850.07996]
+/Contents 22 0 R
+/StructParents 0
+/Parent 2 0 R
+/Tabs /S
+/BleedBox [0.0 7.8299813 595.5 850.07996]
+/TrimBox [0.0 7.8299813 595.5 850.07996]
+>>
+endobj
+7 0 obj
+<<
+/Type /StructElem
+/S /Document
+/Lang (en)
+/P 3 0 R
+/K [23 0 R]
+/ID (node00116765)
+>>
+endobj
+8 0 obj
+<<
+/Type /ParentTree
+/Nums [0 [24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 28 0 R 28 0 R 28 0 R 28 0 R 29 0 R
+29 0 R 30 0 R 31 0 R 31 0 R 32 0 R 32 0 R 32 0 R 33 0 R 34 0 R 35 0 R
+36 0 R 37 0 R 38 0 R 38 0 R 39 0 R 40 0 R 41 0 R 42 0 R 43 0 R 44 0 R
+44 0 R 45 0 R 46 0 R 47 0 R 48 0 R 49 0 R 50 0 R 51 0 R 52 0 R 53 0 R
+54 0 R 55 0 R 56 0 R 57 0 R 58 0 R 59 0 R 60 0 R 61 0 R 62 0 R 63 0 R
+64 0 R 65 0 R 66 0 R 67 0 R 68 0 R 69 0 R 70 0 R 70 0 R]
+]
+>>
+endobj
+9 0 obj
+<<
+/Kids [71 0 R]
+>>
+endobj
+10 0 obj
+<<
+/ca 1
+/BM /Normal
+>>
+endobj
+11 0 obj
+<<
+/CA 1
+/ca 1
+/LC 1
+/LJ 0
+/LW 1
+/ML 4
+/SA true
+/BM /Normal
+>>
+endobj
+12 0 obj
+<<
+/Length 47238
+/Type /XObject
+/Subtype /Image
+/Width 160
+/Height 160
+/ColorSpace /DeviceRGB
+/SMask 72 0 R
+/BitsPerComponent 8
+/Filter /FlateDecode
+>>
+stream
+x�콅[Y�����޸'"�IB������qwwI��{�mz�g�s���YU��!���μ�\�u�ﮫ���_ݏ���"&&F���O7���G����TVTTz��C��� ��KH%Sq1����U��*JA%�*����������������/.//�����(����*���EE�A����~�ޅy�
+�5U�e��y��qUy9�/��������r>��UUu�U��0U�VU��Wc���
